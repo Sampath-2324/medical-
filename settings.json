@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "Medical-Chatbot-main"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
